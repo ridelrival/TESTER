@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="drawing-lines">
+<rect width="640" height="360" fill="#ffffff"/>
+<style>text{font-family:Arial,sans-serif;fill:#243740}.axis{fill:none;stroke:#243740;stroke-width:2}.thin{fill:none;stroke:#536775;stroke-width:1.5}.bold{fill:none;stroke:#167458;stroke-width:4}.fill{fill:#dcefe8;stroke:#167458;stroke-width:2}</style>
+<text x="38" y="37" font-size="21" font-weight="bold">Line types in a drawing</text><rect x="85" y="84" width="440" height="202" fill="none" stroke="#243740" stroke-width="4"/><path d="M145 111V258M465 111V258" stroke="#167458" stroke-width="3" stroke-dasharray="13 9"/><text x="50" y="185" font-size="24">A</text><path d="M67 178h22" class="thin"/><text x="540" y="185" font-size="24">B</text><path d="M525 178h-55" class="thin"/>
+</svg>

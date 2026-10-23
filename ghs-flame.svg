@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="ghs-flame">
+<rect width="640" height="360" fill="#ffffff"/>
+<style>text{font-family:Arial,sans-serif;fill:#243740}.axis{fill:none;stroke:#243740;stroke-width:2}.thin{fill:none;stroke:#536775;stroke-width:1.5}.bold{fill:none;stroke:#167458;stroke-width:4}.fill{fill:#dcefe8;stroke:#167458;stroke-width:2}</style>
+<text x="36" y="35" font-size="21" font-weight="bold">GHS hazard pictogram</text><path d="M320 58L510 181 320 304 130 181Z" fill="white" stroke="#d33b45" stroke-width="19"/><path d="M320 91C300 135 338 145 300 181C285 155 278 147 274 143C274 179 248 188 250 223C252 267 286 283 320 283C360 283 390 254 389 217C388 185 371 169 360 151C357 176 346 185 338 188C348 156 327 138 320 91Z" fill="#243740"/><path d="M323 187C316 208 291 220 295 246C298 264 311 271 326 270C347 269 355 250 350 235C346 222 333 211 323 187Z" fill="white"/>
+</svg>

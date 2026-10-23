@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "SSW TG2 Manufaktur · 機械金属加工区分",
+  "short_name": "SSW TG2",
+  "description": "Latihan SSW TG2 manufaktur kategori mesin dan logam secara offline",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f7f7",
+  "theme_color": "#f7f7f7",
+  "categories": ["education"],
+  "icons": [
+    { "src": "./icon-v2.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

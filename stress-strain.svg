@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="stress-strain">
+<rect width="640" height="360" fill="#ffffff"/>
+<style>text{font-family:Arial,sans-serif;fill:#243740}.axis{fill:none;stroke:#243740;stroke-width:2}.thin{fill:none;stroke:#536775;stroke-width:1.5}.bold{fill:none;stroke:#167458;stroke-width:4}.fill{fill:#dcefe8;stroke:#167458;stroke-width:2}</style>
+<text x="35" y="35" font-size="21" font-weight="bold">Stress–strain curve</text><path d="M75 55V295H580" class="axis"/><text x="16" y="65" font-size="16">Stress</text><text x="540" y="324" font-size="16">Strain</text><path d="M75 295L180 136C210 132 240 143 265 132C326 103 400 83 451 91C492 101 525 125 548 156" fill="none" stroke="#167458" stroke-width="4"/><circle cx="180" cy="136" r="7" fill="#c43f46"/><text x="163" y="119" font-size="21">Y</text><path d="M180 136V295" stroke="#c43f46" stroke-dasharray="6 5"/>
+</svg>

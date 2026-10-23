@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="dimension-tolerance">
+<rect width="640" height="360" fill="#ffffff"/>
+<style>text{font-family:Arial,sans-serif;fill:#243740}.axis{fill:none;stroke:#243740;stroke-width:2}.thin{fill:none;stroke:#536775;stroke-width:1.5}.bold{fill:none;stroke:#167458;stroke-width:4}.fill{fill:#dcefe8;stroke:#167458;stroke-width:2}</style>
+<text x="38" y="35" font-size="21" font-weight="bold">Dimension and tolerance</text><rect x="125" y="155" width="385" height="110" fill="#e7f2ed" stroke="#243740" stroke-width="3"/><path d="M125 283v49M510 283v49M125 314H510" class="axis"/><path d="M125 314l12 -7v14zM510 314l-12 -7v14z" fill="#243740"/><rect x="243" y="283" width="140" height="61" fill="white"/><text x="260" y="326" font-size="27" font-weight="bold">32</text><text x="310" y="307" font-size="18">+0.12</text><text x="310" y="332" font-size="18">−0.24</text>
+</svg>

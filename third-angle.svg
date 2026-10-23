@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="third-angle">
+<rect width="640" height="360" fill="#ffffff"/>
+<style>text{font-family:Arial,sans-serif;fill:#243740}.axis{fill:none;stroke:#243740;stroke-width:2}.thin{fill:none;stroke:#536775;stroke-width:1.5}.bold{fill:none;stroke:#167458;stroke-width:4}.fill{fill:#dcefe8;stroke:#167458;stroke-width:2}</style>
+<text x="34" y="36" font-size="21" font-weight="bold">Third-angle projection</text><rect x="235" y="176" width="160" height="113" class="fill"/><rect x="235" y="65" width="160" height="75" fill="#f6faf8" stroke="#243740" stroke-width="2"/><rect x="430" y="176" width="118" height="113" fill="#f6faf8" stroke="#243740" stroke-width="2"/><path d="M235 234h160M315 176v113M235 102h160M315 65v75M430 234h118" class="thin" stroke-dasharray="7 5"/><text x="315" y="319" text-anchor="middle" font-size="17">FRONT</text><text x="315" y="158" text-anchor="middle" font-size="17">?</text><text x="489" y="319" text-anchor="middle" font-size="17">SIDE</text>
+</svg>

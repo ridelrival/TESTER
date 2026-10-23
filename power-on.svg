@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="power-on">
+<rect width="640" height="360" fill="#ffffff"/>
+<style>text{font-family:Arial,sans-serif;fill:#243740}.axis{fill:none;stroke:#243740;stroke-width:2}.thin{fill:none;stroke:#536775;stroke-width:1.5}.bold{fill:none;stroke:#167458;stroke-width:4}.fill{fill:#dcefe8;stroke:#167458;stroke-width:2}</style>
+<text x="36" y="38" font-size="21" font-weight="bold">Power switch symbol</text><rect x="174" y="69" width="292" height="225" rx="20" fill="#eef4f0" stroke="#536775" stroke-width="3"/><circle cx="320" cy="182" r="79" fill="white" stroke="#167458" stroke-width="7"/><path d="M320 123V242" stroke="#243740" stroke-width="14" stroke-linecap="round"/>
+</svg>
