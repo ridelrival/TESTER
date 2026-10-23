@@ -81,3 +81,6 @@ rt{font-size:.53em;line-height:1;font-weight:400;color:var(--muted);white-space:
 @media(hover:hover) and (pointer:fine){
   .choice:hover:not(:disabled){background:var(--choice-hover);border-color:var(--choice-hover-border)}
 }
+.translation{margin:.7rem 0 0;color:var(--muted);font-size:.9rem}
+.translation summary{cursor:pointer;font-weight:650}
+.translation p{margin:.5rem 0 0}

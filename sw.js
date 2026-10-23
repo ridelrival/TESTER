@@ -1,5 +1,5 @@
 const CACHE_PREFIX = "ssw-tg2-manufacturing-";
-const CACHE_NAME = CACHE_PREFIX + "v1.0.0";
+const CACHE_NAME = CACHE_PREFIX + "v1.0.1";
 const SHELL = ["./", "./index.html", "./styles-v2.css", "./app-v2.js", "./core-v2.js",
   "./storage-v2.js", "./furigana-v2.js", "./questions.json", "./furigana.json", "./image-furigana.json", "./manifest.json", "./icon-v2.png"];
 

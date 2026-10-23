@@ -1,9 +1,9 @@
 {
   "id": "./",
-  "name": "SSW TG2 Manufaktur · 機械金属加工区分",
+  "name": "特定技能2号 · 機械金属加工区分",
   "short_name": "SSW TG2",
-  "description": "Latihan SSW TG2 manufaktur kategori mesin dan logam secara offline",
-  "lang": "id",
+  "description": "特定技能2号・機械金属加工区分の予想問題をオフラインでも学習できます",
+  "lang": "ja",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
